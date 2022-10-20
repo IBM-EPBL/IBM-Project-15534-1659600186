@@ -2,7 +2,7 @@
 Smart Solutions For Railways
 
 Team members
-Golla vinay kumar
-vadlamudi sai gurukrishna
-kalamakuntla bhavani
-theetla raj varun kumar
+Golla vinayKumar(team lead)
+Vadlamudi SaiGurukrishna
+Theetla Raj Varun Kumar
+Kalamakuntla Bhavani Reddy
