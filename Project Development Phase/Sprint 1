@@ -1,4 +1,4 @@
-python script
+python script for QR scanner
 from ibmcloudant import CouchDbSessionAuthenticator 
 from ibm_cloud_sdk_core.authenticators import BasicAuthenticator
 
